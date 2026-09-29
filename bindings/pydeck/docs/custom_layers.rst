@@ -17,3 +17,5 @@ Code for usage of that example layer can be seen here:
 
 .. image:: gallery/images/custom_layer.png
    :width: 500
+
+To use layers and extensions from deck.gl-community, see :doc:`community_libraries`.
